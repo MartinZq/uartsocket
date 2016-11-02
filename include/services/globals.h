@@ -1,0 +1,1 @@
+/home/linux/uartsocket/uartsocket/services/globals.h
