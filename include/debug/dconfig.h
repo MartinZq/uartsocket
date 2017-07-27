@@ -1,1 +1,0 @@
-/home/linux/uartsocket/uartsocket/debug/dconfig.h
